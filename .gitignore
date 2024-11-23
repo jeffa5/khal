@@ -20,3 +20,5 @@ venv/
 .hypothesis/
 .python-version
 .dmypy.json
+
+.direnv/
